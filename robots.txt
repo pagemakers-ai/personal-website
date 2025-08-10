@@ -1,0 +1,8 @@
+# Robots.txt for Mielle Yoo's Personal Website
+# This is a private website - please do not index
+
+User-agent: *
+Disallow: /
+
+# Prevent all search engines from indexing this site
+# This ensures the website remains private and not publicly accessible 
